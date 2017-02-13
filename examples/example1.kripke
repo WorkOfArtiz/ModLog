@@ -1,0 +1,4 @@
+# Comments are allowed
+W = { w1, w2, w3 };
+R = {(w1, w2), (w3, w1)};
+V(p) = {w1, w3};
